@@ -32,9 +32,9 @@ namespace WebRTCTutorial
         protected void Update()
         {
             // Process received errors on the main thread - Unity functions can only be called from the main thread
-            while (_receivedMessages.TryDequeue(out var message))
+            while (_receivedErrors.TryDequeue(out var error))
             {
-                Debug.LogError("WS error: " + message);
+                Debug.LogError("WS error: " + error);
             }
             
             // Process received messages on the main thread - Unity functions can only be called from the main thread
