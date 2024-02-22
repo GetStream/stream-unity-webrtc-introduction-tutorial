@@ -1,6 +1,6 @@
 # WebRTC in Unity: Companion Repository
 
-Welcome to the official repository for the `Introduction to WebRTC for Unity Developers` article ([read the article here](URL)).
+Welcome to the official repository for the `Introduction to WebRTC for Unity Developers` article.
 
 ## Contents
 
