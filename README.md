@@ -1,6 +1,6 @@
 # WebRTC in Unity: Companion Repository
 
-Welcome to the official repository for the `Introduction to WebRTC for Unity Developers` article.
+Welcome to the official repository for the [Implementing Real-Time Video Streaming in Unity with WebRTC](https://getstream.io/resources/projects/webrtc/webrtc-different-platforms/implementing-real-time-video-streaming-in-unity-with-webrtc/) article.
 
 ## Contents
 
